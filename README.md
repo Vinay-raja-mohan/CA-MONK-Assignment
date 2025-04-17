@@ -6,7 +6,9 @@ An interactive Sentence Construction web app built with **Vite + React**, styled
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://youtu.be/_Xf8QsIbt1g)
+👉 [Demo Video](https://youtu.be/_Xf8QsIbt1g)
+👉 [Live Video](https://v0-react-sentence-tool-eight.vercel.app/)
+
 
 ---
 
